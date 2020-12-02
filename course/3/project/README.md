@@ -1,5 +1,5 @@
-# Udacity Hybrid Cloud Engineer: Course 3: Project
-## Hybrid Cloud SaaS: Three-tier web application
+# Hybrid Cloud SaaS: Three-tier web application
+## Course 3: Project
 
 Our fictitious example company is **The E-Commerce Company,** with a stock symbol of **TECC**, hence you will see naming standards which use: tecc.
 
@@ -12,3 +12,5 @@ The test application and database are used to verify a new workload deployment h
 
 - [database backup](MySQL_backup_file.sh.txt)
 - [database restore](MySQL_restore.sh.txt)
+
+[Hybrid-Cloud-Saas-Three-Tier-Application](Hybrid-Cloud-Saas-Three-Tier-Application.json) contains the final submission blueprint
